@@ -1,4 +1,1 @@
 # EDA
-Disciplina ferrada
-
-
